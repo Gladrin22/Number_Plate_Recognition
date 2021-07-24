@@ -21,5 +21,9 @@ git clone https://github.com/Gladrin22/Number_Plate_Recognition
 ```
 Then ,run python Number_Plate_Recognition.py or you can also use jupyter-notebooks to see live output .
 
-# This is a project under developement 
+# Image -- >
 
+This car image I took from Kaggle dataset --- > https://www.kaggle.com/ckay16/indian-number-plate-detection/tasks?taskId=1520 , contributed by Chandra Kumar 
+The image was taken for educational purpose from kaggle datasets . Thank you
+
+# This is a project under developement ......
