@@ -26,4 +26,4 @@ Then ,run python Number_Plate_Recognition.py or you can also use jupyter-noteboo
 This car image I took from Kaggle dataset --- > https://www.kaggle.com/ckay16/indian-number-plate-detection/tasks?taskId=1520 , contributed by Chandra Kumar 
 The image was taken for educational purpose from kaggle datasets . Thank you
 
-# This is a project under developement ......
+# This is a project under developement future enhancements will be made !
