@@ -13,10 +13,13 @@ pip install easyocr
 pip install imutils
 ```
 
-# How to run ? 
+# How to run ?
 
+clone this repository 
 ``` bash
 git clone https://github.com/Gladrin22/Number_Plate_Recognition
 ```
-Then ,run python Number_Plate_Recognition.py
+Then ,run python Number_Plate_Recognition.py or you can also use jupyter-notebooks to see live output .
+
+# This is a project under developement 
 
