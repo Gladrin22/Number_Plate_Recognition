@@ -27,3 +27,7 @@ This car image I took from Kaggle dataset --- > https://www.kaggle.com/ckay16/in
 The image was taken for educational purpose from kaggle datasets . Thank you
 
 # This is a project under developement future enhancements will be made !
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+&
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
